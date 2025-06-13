@@ -1,0 +1,13 @@
+# idea
+.idea/
+
+# vscode
+.vscode/
+
+# python
+__pycache__/
+*.pyc
+
+# java
+.gradle/
+build/
